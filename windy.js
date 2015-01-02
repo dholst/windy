@@ -1,5 +1,5 @@
 var its_windy = function() {
-  var windy_url = 'http://dholst.github.io/windy/windy.png';
+  var windy_url = 'https://dholst.github.io/windy/windy.png';
   var div = document.createElement('div');
   var numType = 'px';
   var heightRandom = Math.random() * .75;
